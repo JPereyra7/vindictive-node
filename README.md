@@ -12,7 +12,11 @@ npx vindictive-node my-new-project
 ```
 
 ### ⚙ Features
+
 ✅ Pre-configured Express.js server
+
 ✅ MongoDB connection ready to use
+
 ✅ Built-in JSON parsing for API requests
+
 ✅ Includes GET and POST routes
