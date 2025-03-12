@@ -1,7 +1,7 @@
 # ✅ Vindictive Node - Express + MongoDB Starter
 
 **Vindictive Node** is a simple CLI tool that quickly sets up a **Node.js server** with **Express and MongoDB**. Perfect for kickstarting a backend project in seconds! 🚀  
-You can find the npmjs project here 📎: https://www.npmjs.com/package/vindictive-node
+
 ---
 ## 📦 Installation & Usage
 
@@ -19,3 +19,6 @@ npx vindictive-node my-new-project
 ✅ Built-in JSON parsing for API requests
 
 ✅ Includes GET and POST routes
+
+---
+You can find the npmjs project here 📎: https://www.npmjs.com/package/vindictive-node
