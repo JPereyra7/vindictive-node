@@ -3,8 +3,9 @@
 **Vindictive Node** is a simple CLI tool that quickly sets up a **Node.js server** with **Express and MongoDB**. Perfect for kickstarting a backend project in seconds! 🚀  
 
 ---
-## npmjs
-**You can find the project here 📎: https://www.npmjs.com/package/vindictive-node
+### npmjs
+
+You can find the project here 📎: https://www.npmjs.com/package/vindictive-node
 ---
 ## 📦 Installation & Usage
 
