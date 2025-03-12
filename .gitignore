@@ -8,3 +8,6 @@ package-lock.json
 # Logs & OS-specific files
 npm-debug.log*
 .DS_Store
+
+# Ignore npm tarball files
+*.tgz
